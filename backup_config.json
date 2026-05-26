@@ -1,0 +1,11 @@
+{
+  "enabled": false,
+  "enabled_hours": false,
+  "interval_hours": 1,
+  "enabled_weekly": false,
+  "weekly_day": 0,
+  "weekly_hour": 9,
+  "weekly_minute": 0,
+  "dest": "",
+  "max_backups": 5
+}
